@@ -1,6 +1,6 @@
 ## Psychic Game 
 
-![Psychic](/assetsimages/1-Psychic.jpg)
+![Psychic] (/assetsimages/1-Psychic.jpg)
 
 1. [Watch the demo](https://youtu.be/qTc45Lox97g).
 
