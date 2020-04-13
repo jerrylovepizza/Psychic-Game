@@ -1,4 +1,4 @@
-#### Psychic Game 
+##### Psychic Game 
 
 #### 1. [Watch the demo](https://youtu.be/qTc45Lox97g).
 
